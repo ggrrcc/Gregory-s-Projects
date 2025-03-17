@@ -20,3 +20,9 @@ Python, R, Git Bash, LaTeX, SNP, Linux
 Classroom proficiency: C, C++, Java, MATLAB, SQL
 
 GRE: 331
+
+# Links
+
+To profile: https://github.com/ggrrcc
+
+To ML Interpretability project: https://github.com/ggrrcc/ML-Interpretability-Public
