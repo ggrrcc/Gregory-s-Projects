@@ -25,4 +25,4 @@ GRE: 331
 
 To profile: https://github.com/ggrrcc
 
-To ML Interpretability project: https://github.com/ggrrcc/ML-Interpretability-Public
+To ML Interpretability project (public commits): https://github.com/ggrrcc/ML-Interpretability-Public
