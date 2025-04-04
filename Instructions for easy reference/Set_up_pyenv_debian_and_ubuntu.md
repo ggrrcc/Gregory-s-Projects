@@ -1,5 +1,9 @@
 # Setting Up pyenv on Debian
 
+## Needs git:
+sudo apt install git
+
+
 ## 1. Install Dependencies
 necessary build dependencies:
 
