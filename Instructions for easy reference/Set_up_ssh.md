@@ -15,9 +15,13 @@ sudo ufw allow ssh
 if doesn't work:
 
 sudo apt install ufw
+
 sudo ufw enable
+
 sudo ufw allow ssh
+
 sudo ufw allow 2222/tcp
+
 sudo ufw enable
 
 ## configure
