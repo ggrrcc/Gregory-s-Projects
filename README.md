@@ -23,7 +23,7 @@ GRE: 331
 
 # Links
 
-[Personal website][ggrrcc.github.io]
+[Personal website](ggrrcc.github.io)
 
 [GitHub Profile](https://github.com/ggrrcc) 
 
