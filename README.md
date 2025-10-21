@@ -1,5 +1,5 @@
 # Gregory's Portfolio
-Hello! This is an assortment of work from over the years.
+Hello! This is an assortment of work from over the years that doesn't fit as its own project.
 Some projects were school assignments. Because of this, I cannot display them publicly.
 Please email me at Gregory.Colonescu@gmail.com and I can add you to that repository.
 
@@ -23,6 +23,8 @@ GRE: 331
 
 # Links
 
-To profile: https://github.com/ggrrcc
+[Personal website][ggrrcc.github.io]
 
-To ML Interpretability project (public commits): https://github.com/ggrrcc/ML-Interpretability-Public
+[GitHub Profile](https://github.com/ggrrcc) 
+
+[ML Interpretability project (public commits)](https://github.com/ggrrcc/ML-Interpretability-Public)
